@@ -8,9 +8,8 @@ In addition to my technical pursuits, I have a deep appreciation for creativity.
 
 ## Skills
 - **Programming Languages**: Python, C#, HTML, CSS
-- **Data Analysis**: Analyzing and interpreting complex data to derive meaningful insights.
 - **Web Development**: Building interactive and responsive web applications.
-- **Problem-Solving**: Always striving to find elegant solutions to challenges.
+
 
 ## Projects
 - [Project 1](link-to-project): 
@@ -24,8 +23,8 @@ In addition to my technical pursuits, I have a deep appreciation for creativity.
 ## Interests
 - Writing Poems ✍️
 - Singing 🎶
-- Traveling 🌍
 
+-How to reach-gunumatta@gmail.com
 Feel free to reach out if you want to connect or collaborate on projects!
 
 - 🔭 I’m currently working on web applications.
